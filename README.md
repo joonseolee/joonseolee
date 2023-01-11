@@ -2,7 +2,7 @@
 
 ![Gmail](https://img.shields.io/badge/niceweather94@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/JoonseoLee-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A4%80%EC%84%9C-%EC%9D%B4-22501615b/)
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://vesselsdiary.tistory.com/)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white)](https://vesselsdiary.tistory.com/)
 
 ## Introduce 
 
