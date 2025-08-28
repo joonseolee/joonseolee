@@ -26,8 +26,12 @@ Let me know if you want to contact me, I would be glad a lot :satisfied:
 
 ## Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joonseolee)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="left">
+  <a href="https://github.com/joonseolee">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joonseolee&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joonseolee&layout=compact&langs_count=5"/>
+  </a>
+</p>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
